@@ -107,4 +107,7 @@ venv.bak/
 # files and folders
 *.pdf
 copy/
-
+test_output_d_l
+*.png
+*.fits
+*.fit
